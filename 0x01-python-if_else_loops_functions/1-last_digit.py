@@ -16,5 +16,5 @@ if lastdigit(number) > 5:
 elif lastdigit(number) == 0:
     print('Last digit of', number, 'is', lastdigit(number), 'and is 0')
 elif lastdigit(number) < 6 and lastdigit(number) != 0:
-    print('Last digit of', number, 'is', lastdigit(number), 
+    print('Last digit of', number, 'is', lastdigit(number),
             'and is less than 6 and not 0')
