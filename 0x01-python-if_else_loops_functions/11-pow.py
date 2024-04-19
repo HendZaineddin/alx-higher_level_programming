@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+k = 0
 def pow(a, b):
 if b == 0:
     return (1)
