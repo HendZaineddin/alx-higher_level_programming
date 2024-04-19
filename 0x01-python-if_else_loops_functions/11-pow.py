@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 def pow(a, b):
-k = 0
 if b == 0:
     return (1)
 elif b < 0:
